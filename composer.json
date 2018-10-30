@@ -16,8 +16,9 @@
         "homepage": "http://waavi.com"
     }],
     "require": {
-        "illuminate/support": "~5.6.1",
-        "illuminate/config": "~5.6.1",
+        "illuminate/support": "~5.7.1",
+        "illuminate/config": "~5.7.1",
+        "illuminate/contracts": "~5.7.1",
         "mremi/url-shortener": "~2.2.1"
     },
     "require-dev": {
